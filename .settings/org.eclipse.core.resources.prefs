@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/ihefe/servers/message/controllers/LoginController.java=UTF-8
+encoding//src/main/java/com/ihefe/servers/message/controllers/MsgController.java=UTF-8
+encoding//src/main/java/com/ihefe/servers/message/entrys/Message.java=UTF-8
+encoding//src/main/java/com/ihefe/servers/message/websocket/HandShake.java=UTF-8
+encoding//src/main/java/com/ihefe/servers/message/websocket/Handler.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/index.jsp=UTF-8
